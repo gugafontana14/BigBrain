@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BigBrain.Api.User.Application</name>
+    </assembly>
+    <members>
+        <member name="T:BigBrain.Api.User.Application.Controllers.UserController">
+            <summary>
+            Users Big Brain
+            </summary>
+        </member>
+        <member name="M:BigBrain.Api.User.Application.Controllers.UserController.Get(System.String)">
+            <summary>
+            Get Users
+            </summary>
+            <param name="search"></param>
+        </member>
+    </members>
+</doc>

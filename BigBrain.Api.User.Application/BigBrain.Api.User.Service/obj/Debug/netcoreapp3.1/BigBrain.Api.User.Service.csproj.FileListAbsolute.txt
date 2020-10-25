@@ -1,0 +1,12 @@
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Service.csprojAssemblyReference.cache
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Service.AssemblyInfoInputs.cache
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Service.AssemblyInfo.cs
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Service.deps.json
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Service.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Service.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Service.csproj.CopyComplete
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Service.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Service.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Service\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Service.csproj.CoreCompileInputs.cache

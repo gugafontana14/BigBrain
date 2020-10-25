@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.CrossCutting\\BigBrain.Api.User.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.CrossCutting\\BigBrain.Api.User.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.CrossCutting\\BigBrain.Api.User.CrossCutting.csproj",
+        "projectName": "BigBrain.Api.User.CrossCutting",
+        "projectPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.CrossCutting\\BigBrain.Api.User.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Frigelar.Api.Framework": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Service\\BigBrain.Api.User.Service.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Service\\BigBrain.Api.User.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Domain\\BigBrain.Api.User.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Domain\\BigBrain.Api.User.Domain.csproj",
+        "projectName": "BigBrain.Api.User.Domain",
+        "projectPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Domain\\BigBrain.Api.User.Domain.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Frigelar.Api.Framework": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Graph.Auth": {
+              "target": "Package",
+              "version": "[1.0.0-preview.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Service\\BigBrain.Api.User.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Service\\BigBrain.Api.User.Service.csproj",
+        "projectName": "BigBrain.Api.User.Service",
+        "projectPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Service\\BigBrain.Api.User.Service.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Frigelar.Api.Framework": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Domain\\BigBrain.Api.User.Domain.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Dropbox\\Pessoal\\BigBrain\\BigBrain.Api.User.Application\\BigBrain.Api.User.Domain\\BigBrain.Api.User.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[3.18.0, )"
+            },
+            "Microsoft.Graph.Auth": {
+              "target": "Package",
+              "version": "[1.0.0-preview.5, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.21.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

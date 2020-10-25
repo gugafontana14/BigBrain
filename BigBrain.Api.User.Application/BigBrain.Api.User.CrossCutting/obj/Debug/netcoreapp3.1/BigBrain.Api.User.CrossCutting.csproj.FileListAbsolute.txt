@@ -1,0 +1,14 @@
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Service.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\obj\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.csprojAssemblyReference.cache
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\obj\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\obj\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.AssemblyInfo.cs
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\bin\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.deps.json
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\bin\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\bin\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Service.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\obj\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\obj\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.csproj.CopyComplete
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\obj\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.CrossCutting\obj\Debug\netcoreapp3.1\BigBrain.Api.User.CrossCutting.pdb

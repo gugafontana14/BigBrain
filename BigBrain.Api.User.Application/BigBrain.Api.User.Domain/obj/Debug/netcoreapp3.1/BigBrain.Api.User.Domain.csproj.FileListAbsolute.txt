@@ -1,0 +1,9 @@
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.deps.json
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\bin\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.AssemblyInfoInputs.cache
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.AssemblyInfo.cs
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.dll
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.pdb
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.csprojAssemblyReference.cache
+C:\Users\gusta\Dropbox\Pessoal\BigBrain\BigBrain.Api.User.Application\BigBrain.Api.User.Domain\obj\Debug\netcoreapp3.1\BigBrain.Api.User.Domain.csproj.CoreCompileInputs.cache
